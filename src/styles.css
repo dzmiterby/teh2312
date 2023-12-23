@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.btn {
+  font-size: 14px;
+  background: rgba(128, 128, 128, 0.3);
+  padding: 5px 15px;
+  border: 2px solid rgba(128, 128, 128, 0.7);
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.btn + .btn {
+  margin-left: 10px;
+}
+
+.inp {
+  font-size: 14px;
+  padding: 5px;
+  border: 2px solid rgba(128, 128, 128, 0.7);
+  border-radius: 5px;
+}
